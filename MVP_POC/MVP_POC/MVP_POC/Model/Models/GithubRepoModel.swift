@@ -1,6 +1,6 @@
 //
 //  GithubRepoModel.swift
-//  MVVM_POC
+//  MVP_POC
 //
 //  Created by Moayad Al kouz on 7/10/19.
 //  Copyright © 2019 Moayad Al kouz. All rights reserved.

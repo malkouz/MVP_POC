@@ -1,6 +1,6 @@
 //
 //  ReposListViewController.swift
-//  MVVM_POC
+//  MVP_POC
 //
 //  Created by Moayad Al kouz on 09/07/2019.
 //  Copyright © 2019 Moayad Al kouz. All rights reserved.
